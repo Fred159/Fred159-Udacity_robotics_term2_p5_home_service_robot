@@ -13,4 +13,4 @@ This is  a Udacity robotics nanodegree 5th project. This project is called home 
 7. xterminal
 
 ## Project results
-!(home service robot)[https://github.com/Fred159/Fred159-Udacity_robotics_term2_p5_home_service_robot/blob/master/homeservice.png]
+![home service robot](https://github.com/Fred159/Fred159-Udacity_robotics_term2_p5_home_service_robot/blob/master/homeservice.png)
